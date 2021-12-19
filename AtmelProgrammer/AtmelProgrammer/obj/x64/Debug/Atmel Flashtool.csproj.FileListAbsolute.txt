@@ -1,0 +1,9 @@
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\bin\x64\Debug\Atmelflash.exe.config
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\bin\x64\Debug\Atmelflash.exe
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\bin\x64\Debug\Atmelflash.pdb
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\x64\Debug\Atmel Flashtool.csprojAssemblyReference.cache
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\x64\Debug\AtmelProgrammer.Form1.resources
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\x64\Debug\AtmelProgrammer.Properties.Resources.resources
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\x64\Debug\Atmel Flashtool.csproj.GenerateResource.cache
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\x64\Debug\Atmelflash.exe
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\x64\Debug\Atmelflash.pdb

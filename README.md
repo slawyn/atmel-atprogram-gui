@@ -1,1 +1,1 @@
-# atmel-atprogram-gui
+GUI that uses atprogram.exe from Atmel-Backed to program Atmega chips.

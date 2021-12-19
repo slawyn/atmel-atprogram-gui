@@ -1,0 +1,9 @@
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\bin\Debug\AtmelProgrammer.exe.config
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\bin\Debug\AtmelProgrammer.exe
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\bin\Debug\AtmelProgrammer.pdb
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\Debug\AtmelProgrammer.csprojAssemblyReference.cache
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\Debug\AtmelProgrammer.Form1.resources
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\Debug\AtmelProgrammer.Properties.Resources.resources
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\Debug\AtmelProgrammer.csproj.GenerateResource.cache
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\Debug\AtmelProgrammer.exe
+C:\Users\Unixt\source\repos\AtmelProgrammer\AtmelProgrammer\obj\Debug\AtmelProgrammer.pdb
